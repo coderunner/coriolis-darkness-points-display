@@ -21,6 +21,6 @@
       "path": "lang/fr.json"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/coderunner/coriolis-darnkess-points-display/main/module.json",
-  "download": "https://github.com/coderunner/coriolis-darnkess-points-display/archive/refs/tags/1.0.0.zip"
+  "manifest": "https://raw.githubusercontent.com/coderunner/coriolis-darkness-points-display/main/module.json",
+  "download": "https://github.com/coderunner/coriolis-darkness-points-display/archive/refs/tags/1.0.0.zip"
 }
