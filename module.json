@@ -1,0 +1,26 @@
+{
+  "name": "coriolis-darkness-points-display",
+  "title": "Coriolis: Darkness Points Display",
+  "description": "Display darkness points.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "author": "Félix-Étienne Trépanier",
+  "system": ["yzecoriolis"],
+  "esmodules": ["./scripts/main.js"],
+  "styles": ["./styles/styles.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/coderunner/coriolis-darnkess-points-display/main/module.json",
+  "download": "https://github.com/coderunner/coriolis-darnkess-points-display/archive/refs/tags/1.0.0.zip"
+}
